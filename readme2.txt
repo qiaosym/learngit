@@ -1,1 +1,2 @@
-第二个文件
+this is two file，
+two
